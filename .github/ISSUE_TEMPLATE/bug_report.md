@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: Website bug report
 labels: bug
-assignees: ''
+assignees: tomarney
 
 ---
 
